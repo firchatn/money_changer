@@ -1,0 +1,24 @@
+nav{
+top: 0;
+width: 100%;
+padding-top: 1em;
+padding-bottom: .7em;
+height: 80px;
+background: url("afb/top fade.png") top center no-repeat;
+}
+
+nav select{
+position: relative;
+width: 100%;
+font-size: 1em;
+opacity: 1;
+}
+p.list_source{
+text-align: center }
+
+body {
+color:black;
+background-color:white;
+background-position:50% 50%;
+background-image:url(icone2.jpg);
+}
